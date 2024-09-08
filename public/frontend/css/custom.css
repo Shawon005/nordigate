@@ -1,0 +1,396 @@
+
+/*******************************************************/
+/**************** ## Work Process Area ****************/
+/*******************************************************/
+.mt-10, .my-10 {
+  margin-top: 10px;
+}
+.mt-40, .my-40 {
+  margin-top: 40px;
+}
+.mb-70, .my-70 {
+  margin-bottom: 70px;
+}
+.mb-15, .my-15 {
+  margin-bottom: 15px;
+}
+.mt-50, .my-50 {
+  margin-top: 50px;
+}
+
+
+.delay-0-2s {
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+
+.section-title {
+  margin-top: -7px;
+  position: relative;
+}
+.section-title .sub-title {
+  font-size: 20px;
+  font-weight: 500;
+  display: inline-block;
+  color: var(--secondary-color);
+}
+.work-process-line {
+  margin-bottom: -95px; 
+}
+@media only screen and (max-width: 575px) {
+    .work-process-line {
+      margin-bottom: -60px; 
+  	} 
+}
+
+.work-process-item {
+  margin-bottom: 30px; 
+}
+@media only screen and (max-width: 575px) {
+    .work-process-item {
+      margin-top: 0; 
+  	} 
+}
+.work-process-item .number {
+    width: 80px;
+    height: 80px;
+    color: white;
+    font-size: 24px;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+    font-weight: 700;
+    line-height: 60px;
+    margin-left: 40px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 3px 0 60px rgba(103, 77, 243, 0.2);
+    box-shadow: 3px 0 60px rgba(103, 77, 243, 0.2);
+    border: 10px solid white;
+    font-family: "Poppins", sans-serif;
+    background: #674df3; 
+}
+.work-process-item .content {
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+    position: relative;
+    background: #f7f7f9;
+    padding: 35px 28px 16px 30px; 
+}
+.work-process-item .content p, .work-process-item .content h4 {
+      -webkit-transition: 0.5s;
+      -o-transition: 0.5s;
+      transition: 0.5s; 
+}
+.work-process-item .content:before {
+      position: absolute;
+      content: '';
+      left: 33px;
+      bottom: 100%;
+      -webkit-transition: 0.5s;
+      -o-transition: 0.5s;
+      transition: 0.5s;
+      border-right: 22px solid transparent;
+      border-bottom: 15px solid #f7f7f9; 
+}
+.work-process-item:hover .number {
+    color: #1b1f2e;
+    background: #30f0b6; 
+}
+.work-process-item:hover .content {
+    background: #674df3; 
+}
+.work-process-item:hover .content p, .work-process-item:hover .content h4 {
+      color: white; 
+}
+.work-process-item:hover .content:before {
+      border-bottom-color: #674df3; 
+}
+
+/* Work Process Two */
+.work-process-item-two {
+  margin-bottom: 30px; 
+}
+@media only screen and (max-width: 575px) {
+    .work-process-item-two {
+      margin-top: 0; 
+  	} 
+}
+.work-process-item-two .image {
+    margin-right: 50px;
+    position: relative; 
+}
+.work-process-item-two .image img {
+      width: 100%; 
+}
+.work-process-item-two .image .number {
+  width: 55px;
+  height: 55px;
+  color: white;
+  font-size: 18px;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  font-weight: 600;
+  line-height: 47px;
+  text-align: center;
+  border-radius: 50%;
+  -webkit-box-shadow: 3px 0 60px rgba(103, 77, 243, 0.2);
+  box-shadow: 3px 0 60px rgba(103, 77, 243, 0.2);
+  border: 4px solid white;
+  font-family: "Poppins", sans-serif;
+  background: #674df3;
+  position: absolute;
+  right: -27px;
+  bottom: -27px; 
+}
+.work-process-item-two .content {
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+    margin-left: 50px;
+    padding: 33px 28px 15px;
+    background: #f7f7f9; 
+}
+@media only screen and (max-width: 767px) {
+  	.work-process-item-two .content {
+    	margin-left: 15px;
+    	padding-left: 20px;
+    	padding-right: 20px; 
+	} 
+}
+.work-process-item-two .content h5 {
+      margin-bottom: 10px; 
+}
+@media only screen and (min-width: 376px) {
+    .work-process-item-two .content h5 {
+    	font-size: 20px; 
+    } 
+}
+.work-process-item-two .content p {
+      line-height: 30px; 
+}
+.work-process-item-two:hover .image .number {
+    color: #1b1f2e;
+    background: #30f0b6; 
+}
+.work-process-item-two:hover .content {
+    background: white;
+    -webkit-box-shadow: 3px 0 60px rgba(103, 77, 243, 0.2);
+    box-shadow: 3px 0 60px rgba(103, 77, 243, 0.2); 
+}
+
+.work-process-area-two .work-process-line-two {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  left: 0;
+  top: 45%;
+  z-index: -1; 
+}
+
+/*** 
+
+====================================================================
+	TECHNOLOGY INDEX 
+====================================================================
+
+ ***/
+.technology-v1 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url('../images/background/bg-tech-home1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.tech-box i, .tech-box span {
+  color: #43BAFF;
+}
+.tech-box:hover {
+  background: #43baff;
+  border-color: #43baff;
+  color: #fff;
+}
+.tech-box:hover .tech-box i, .tech-box span{
+  color: #fff;
+}
+
+
+/*--------------------------------------------------------------
+# Testimonial One
+--------------------------------------------------------------*/
+#particles-js {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-position: 50% 50%;
+  opacity: 0.40;
+  z-index: -1;
+}
+
+.testimonial-one {
+    position: relative;
+    display: block;
+    background-color: #eef3f7;
+    padding: 120px 0 60px;
+    z-index: 1;
+    margin-top: 0;
+}
+
+.testimonial-one-shape {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 353px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    filter: grayscale(100%);
+    opacity: .15;
+}
+
+.testimonial-one__left {
+    position: relative;
+    display: block;
+}
+
+.testimonial-one__right {
+    position: relative;
+    display: block;
+}
+
+.testimonial-one__carousel {
+    position: relative;
+    display: block;
+}
+
+.testimonial-one__carousel.owl-carousel .owl-stage-outer {
+    margin-right: -360px;
+    padding-bottom: 60px;
+}
+
+.testimonial-one__carousel.owl-theme .owl-nav {
+    position: absolute;
+    bottom: 99px;
+    left: -405px;
+}
+
+.testimonial-one__carousel.owl-theme .owl-nav .owl-next {
+    height: 65px;
+    width: 65px;
+    background: transparent;
+    border-radius: 50%;
+    color: #bab9bd;
+    font-size: 23px;
+    text-align: center;
+    border: 2px solid #bab9bd;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+.testimonial-one__carousel.owl-theme .owl-nav .owl-prev {
+    height: 65px;
+    width: 65px;
+    background: transparent;
+    border-radius: 50%;
+    color: #bab9bd;
+    font-size: 23px;
+    text-align: center;
+    transform: rotate(180deg);
+    border: 2px solid #bab9bd;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+.testimonial-one__carousel.owl-theme .owl-nav .owl-next:hover,
+.testimonial-one__carousel.owl-theme .owl-nav .owl-prev:hover {
+    color: #1989fb;
+    border: 2px solid #1989fb;
+}
+
+.testimonial-one__single {
+    position: relative;
+    display: block;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 60px 60px 50px;
+    transition: all 500ms ease;
+}
+
+.testimonial-one__single:hover {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 10px 60px 0px rgb(0, 0, 0, .05);
+}
+
+.testimonial-one__client-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 17px;
+}
+
+.testimonial-one__client-details {
+    margin-left: 20px;
+}
+
+.testimonial-one__client-name {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.testimonial-one__client-title {
+    font-size: 16px;
+    color: #1989fb;
+    margin: 0;
+    line-height: 26px;
+}
+
+.testimonial-one__text {
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0;
+    line-height: 36px;
+}
+
+.testimonial-one__quote {
+    position: absolute;
+    top: 68px;
+    right: 60px;
+}
+
+.testimonial-one__quote span {
+    font-size: 63px;
+    color: #eef3f7;
+    transition: all 500ms ease;
+}
+
+.testimonial-one__single:hover .testimonial-one__quote span {
+    color: #42d9be;
+}
+
+.icon-right-quote:before {
+  content: "\e912";
+}
+
+.project_one-overlay::before {
+  background: white;
+  
+}
+.project_one-content::before
+{
+  background: none;
+}
+.line{
+ 
+border-right: 1px solid #dbdbdb;
+}

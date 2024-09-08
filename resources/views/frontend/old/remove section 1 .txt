@@ -1,0 +1,613 @@
+	<!-- Counter Two -->
+	<section class="counter-two">
+		<div class="auto-container">
+			<div class="counter-two_inner-container">
+				<div class="counter-two_pattern-one" style="background-image:url(images/background/pattern-20.png)"></div>
+				<div class="counter-two_pattern-two" style="background-image:url(images/background/pattern-21.png)"></div>
+				<div class="counter-two_pattern-three" style="background-image:url(images/background/pattern-22.png)"></div>
+				<div class="counter-two_image-layer" style="background-image:url(images/background/banner-home3.jpg)"></div>
+				<h2 class="counter-two_heading">We develops strategic software solutions for businesses.</h2>
+				
+				<div class="row clearfix">
+					
+					<!-- Counter Column -->
+					<div class="counter-two_block col-lg-3 col-md-6 col-sm-6">
+						<div class="counter-two_counter"><span class="odometer" data-count="2003"></span></div>
+						<div class="counter-two_text">Year of establishment</div>
+					</div>
+					
+					<!-- Counter Column -->
+					<div class="counter-two_block col-lg-3 col-md-6 col-sm-6">
+						<div class="counter-two_counter"><span class="odometer" data-count="25"></span>k+</div>
+						<div class="counter-two_text">of customers worldwide</div>
+					</div>
+					
+					<!-- Counter Column -->
+					<div class="counter-two_block col-lg-3 col-md-6 col-sm-6">
+						<div class="counter-two_counter"><span class="odometer" data-count="14"></span>+</div>
+						<div class="counter-two_text">Countries with active client base</div>
+					</div>
+					
+					<!-- Counter Column -->
+					<div class="counter-two_block col-lg-3 col-md-6 col-sm-6">
+						<div class="counter-two_counter"><span class="odometer" data-count="5"></span></div>
+						<div class="counter-two_text">Customer <br> rating</div>
+					</div>
+					
+				</div>
+				
+				<div class="counter-two_text">You have better things to do than worry about IT for your small business. <a href="#">Let’s Discuss about Project.</a></div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Counter Two -->
+
+
+<!-- Testimonial Section -->
+	<section class="testimonial-section" style="background-image: url(images/background/bg-pallarax.jpg)">
+		<div class="pattern-layer-one" style="background-image: url(images/background/pattern-25.png)"></div>
+		<div class="auto-container">
+			<div class="row clearfix">
+			
+				<!-- Title Column -->
+				<div class="title-column col-lg-5 col-md-12 col-sm-12">
+					<div class="inner-column wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<!-- Sec Title -->
+						<div class="sec-title_two">
+							<div class="sec-title_two-title">Testimonials ~</div>
+							<h2 class="sec-title_two-heading">Here's what our <br> <span>customers</span> have said.</h2>
+							<div class="sec-title_two-text">Simplified IT is designed to help make sure you and your data is protected and your computer runs it's best. The network Access provides is valuable.</div>
+						</div>
+						<!-- Button Box -->
+						<div class="button-box">
+							<a class="btn-style-three theme-btn btn-item" href="#">
+								<div class="btn-wrap">
+									<span class="text-one">View More <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+									<span class="text-two">View More <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Carousel Column -->
+				<div class="carousel-column col-lg-7 col-md-12 col-sm-12">
+					<div class="inner-column" style="background-image: url(images/background/pattern-26.png)">
+						<div class="authors-outer">
+							<div class="author-one">
+								<img src="images/resource/author-2.jpg" alt="" />
+							</div>
+							<div class="author-two">
+								<img src="images/resource/author-3.jpg" alt="" />
+							</div>
+							<div class="author-three">
+								<img src="images/resource/author-4.jpg" alt="" />
+							</div>
+							<div class="author-four">
+								<img src="images/resource/author-5.jpg" alt="" />
+							</div>
+						</div>
+						<div class="single-item-carousel owl-carousel owl-theme">
+						
+							<!-- Testimonial Block -->
+							<div class="testimonial-block">
+								<div class="inner-box">
+									<div class="rating">
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+									</div>
+									<div class="text">“I To helped the client achieve their goal of calling the attention of mobile network operators. The expert team was also able to develop an app with commendable UI/UX. The client appreciates their flexibility in terms.”</div>
+								</div>
+								<div class="author-box">
+									<div class="box-inner">
+										<span class="author-image">
+											<img src="images/resource/author-1.jpg" alt="" />
+										</span>
+										<h5>Arnold Burner</h5>
+										<div class="designation">Senior Developer</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- Testimonial Block -->
+							<div class="testimonial-block">
+								<div class="inner-box">
+									<div class="rating">
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+									</div>
+									<div class="text">“I To helped the client achieve their goal of calling the attention of mobile network operators. The expert team was also able to develop an app with commendable UI/UX. The client appreciates their flexibility in terms.”</div>
+								</div>
+								<div class="author-box">
+									<div class="box-inner">
+										<span class="author-image">
+											<img src="images/resource/author-1.jpg" alt="" />
+										</span>
+										<h5>Arnold Burner</h5>
+										<div class="designation">Senior Developer</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- Testimonial Block -->
+							<div class="testimonial-block">
+								<div class="inner-box">
+									<div class="rating">
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+									</div>
+									<div class="text">“I To helped the client achieve their goal of calling the attention of mobile network operators. The expert team was also able to develop an app with commendable UI/UX. The client appreciates their flexibility in terms.”</div>
+								</div>
+								<div class="author-box">
+									<div class="box-inner">
+										<span class="author-image">
+											<img src="images/resource/author-1.jpg" alt="" />
+										</span>
+										<h5>Arnold Burner</h5>
+										<div class="designation">Senior Developer</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Testimonial Section -->
+
+
+
+
+
+
+
+	<!-- New Testimonial One Start-->
+        <!-- <section class="testimonial-one">
+            <div id="particles-js"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="testimonial-one__left">
+                            <div class="section-title text-left">
+                                <span class="section-title__tagline">Customers Feedbacks</span>
+                                <h2 class="section-title__title">What They’re Talking About Company</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8 col-lg-7">
+                        <div class="testimonial-one__right">
+                            <div class="testimonial-one__carousel owl-theme owl-carousel">
+                                
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__client-info">
+                                        <div class="testimonial-one__client-img">
+                                            <img src="images/testimonial-one-img-1.png" alt="">
+                                        </div>
+                                        <div class="testimonial-one__client-details">
+                                            <h5 class="testimonial-one__client-name">Kevin Martin</h5>
+                                            <p class="testimonial-one__client-title">Customer</p>
+                                        </div>
+                                    </div>
+                                    <p class="testimonial-one__text">Lorem ipsum is simply free text dolor sit amet,
+                                        consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore
+                                        et dolore text.</p>
+                                    <div class="testimonial-one__quote">
+                                        <span class="icon-right-quote"></span>
+                                    </div>
+                                </div>
+                                
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__client-info">
+                                        <div class="testimonial-one__client-img">
+                                            <img src="images/testimonial-one-img-2.png" alt="">
+                                        </div>
+                                        <div class="testimonial-one__client-details">
+                                            <h5 class="testimonial-one__client-name">Christine Eve</h5>
+                                            <p class="testimonial-one__client-title">Customer</p>
+                                        </div>
+                                    </div>
+                                    <p class="testimonial-one__text">Lorem ipsum is simply free text dolor sit amet,
+                                        consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore
+                                        et dolore text.</p>
+                                    <div class="testimonial-one__quote">
+                                        <span class="icon-right-quote"></span>
+                                    </div>
+                                </div>
+                                
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__client-info">
+                                        <div class="testimonial-one__client-img">
+                                            <img src="images/testimonial-one-img-3.png" alt="">
+                                        </div>
+                                        <div class="testimonial-one__client-details">
+                                            <h5 class="testimonial-one__client-name">Jon Smith</h5>
+                                            <p class="testimonial-one__client-title">Customer</p>
+                                        </div>
+                                    </div>
+                                    <p class="testimonial-one__text">Lorem ipsum is simply free text dolor sit amet,
+                                        consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore
+                                        et dolore text.</p>
+                                    <div class="testimonial-one__quote">
+                                        <span class="icon-right-quote"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+    <!--New Testimonial One End-->
+		<!-- Testimonial Section -->
+	<section class="testimonial-section" style="background-image: url(images/background/bg-pallarax.jpg)">
+		<div class="pattern-layer-one" style="background-image: url(images/background/pattern-25.png)"></div>
+		<div class="auto-container">
+			<div class="row clearfix">
+			
+				<!-- Title Column -->
+				<div class="title-column col-lg-5 col-md-12 col-sm-12">
+					<div class="inner-column wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<!-- Sec Title -->
+						<div class="sec-title_two">
+							<div class="sec-title_two-title">Testimonials ~</div>
+							<h2 class="sec-title_two-heading">Here's what our <br> <span>customers</span> have said.</h2>
+							<div class="sec-title_two-text">Simplified IT is designed to help make sure you and your data is protected and your computer runs it's best. The network Access provides is valuable.</div>
+						</div>
+						<!-- Button Box -->
+						<div class="button-box">
+							<a class="btn-style-three theme-btn btn-item" href="#">
+								<div class="btn-wrap">
+									<span class="text-one">View More <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+									<span class="text-two">View More <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Carousel Column -->
+				<div class="carousel-column col-lg-7 col-md-12 col-sm-12">
+					<div class="inner-column" style="background-image: url(images/background/pattern-26.png)">
+						<div class="authors-outer">
+							<div class="author-one">
+								<img src="images/resource/author-2.jpg" alt="" />
+							</div>
+							<div class="author-two">
+								<img src="images/resource/author-3.jpg" alt="" />
+							</div>
+							<div class="author-three">
+								<img src="images/resource/author-4.jpg" alt="" />
+							</div>
+							<div class="author-four">
+								<img src="images/resource/author-5.jpg" alt="" />
+							</div>
+						</div>
+						<div class="single-item-carousel owl-carousel owl-theme">
+						
+							<!-- Testimonial Block -->
+							<div class="testimonial-block">
+								<div class="inner-box">
+									<div class="rating">
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+									</div>
+									<div class="text">“I To helped the client achieve their goal of calling the attention of mobile network operators. The expert team was also able to develop an app with commendable UI/UX. The client appreciates their flexibility in terms.”</div>
+								</div>
+								<div class="author-box">
+									<div class="box-inner">
+										<span class="author-image">
+											<img src="images/resource/author-1.jpg" alt="" />
+										</span>
+										<h5>Arnold Burner</h5>
+										<div class="designation">Senior Developer</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- Testimonial Block -->
+							<div class="testimonial-block">
+								<div class="inner-box">
+									<div class="rating">
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+									</div>
+									<div class="text">“I To helped the client achieve their goal of calling the attention of mobile network operators. The expert team was also able to develop an app with commendable UI/UX. The client appreciates their flexibility in terms.”</div>
+								</div>
+								<div class="author-box">
+									<div class="box-inner">
+										<span class="author-image">
+											<img src="images/resource/author-1.jpg" alt="" />
+										</span>
+										<h5>Arnold Burner</h5>
+										<div class="designation">Senior Developer</div>
+									</div>
+								</div>
+							</div>
+							
+							<!-- Testimonial Block -->
+							<div class="testimonial-block">
+								<div class="inner-box">
+									<div class="rating">
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+										<span class="fa fa-star"></span>
+									</div>
+									<div class="text">“I To helped the client achieve their goal of calling the attention of mobile network operators. The expert team was also able to develop an app with commendable UI/UX. The client appreciates their flexibility in terms.”</div>
+								</div>
+								<div class="author-box">
+									<div class="box-inner">
+										<span class="author-image">
+											<img src="images/resource/author-1.jpg" alt="" />
+										</span>
+										<h5>Arnold Burner</h5>
+										<div class="designation">Senior Developer</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Testimonial Section -->
+
+	<!-- New Testimonial One Start-->
+        <!-- <section class="testimonial-one">
+            <div id="particles-js"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="testimonial-one__left">
+                            <div class="section-title text-left">
+                                <span class="section-title__tagline">Customers Feedbacks</span>
+                                <h2 class="section-title__title">What They’re Talking About Company</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8 col-lg-7">
+                        <div class="testimonial-one__right">
+                            <div class="testimonial-one__carousel owl-theme owl-carousel">
+                                
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__client-info">
+                                        <div class="testimonial-one__client-img">
+                                            <img src="images/testimonial-one-img-1.png" alt="">
+                                        </div>
+                                        <div class="testimonial-one__client-details">
+                                            <h5 class="testimonial-one__client-name">Kevin Martin</h5>
+                                            <p class="testimonial-one__client-title">Customer</p>
+                                        </div>
+                                    </div>
+                                    <p class="testimonial-one__text">Lorem ipsum is simply free text dolor sit amet,
+                                        consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore
+                                        et dolore text.</p>
+                                    <div class="testimonial-one__quote">
+                                        <span class="icon-right-quote"></span>
+                                    </div>
+                                </div>
+                                
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__client-info">
+                                        <div class="testimonial-one__client-img">
+                                            <img src="images/testimonial-one-img-2.png" alt="">
+                                        </div>
+                                        <div class="testimonial-one__client-details">
+                                            <h5 class="testimonial-one__client-name">Christine Eve</h5>
+                                            <p class="testimonial-one__client-title">Customer</p>
+                                        </div>
+                                    </div>
+                                    <p class="testimonial-one__text">Lorem ipsum is simply free text dolor sit amet,
+                                        consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore
+                                        et dolore text.</p>
+                                    <div class="testimonial-one__quote">
+                                        <span class="icon-right-quote"></span>
+                                    </div>
+                                </div>
+                                
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__client-info">
+                                        <div class="testimonial-one__client-img">
+                                            <img src="images/testimonial-one-img-3.png" alt="">
+                                        </div>
+                                        <div class="testimonial-one__client-details">
+                                            <h5 class="testimonial-one__client-name">Jon Smith</h5>
+                                            <p class="testimonial-one__client-title">Customer</p>
+                                        </div>
+                                    </div>
+                                    <p class="testimonial-one__text">Lorem ipsum is simply free text dolor sit amet,
+                                        consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore
+                                        et dolore text.</p>
+                                    <div class="testimonial-one__quote">
+                                        <span class="icon-right-quote"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+    <!--New Testimonial One End-->
+
+
+
+	
+	<!-- News One -->
+	<section class="news-two">
+		<div class="auto-container">
+			
+			<!-- Sec Title -->
+			<div class="sec-title_two">
+				<div class="sec-title_two-title">Blog ~</div>
+				<h2 class="sec-title_two-heading">Our Latest <span>Blog</span></h2>
+			</div>
+			
+			<div class="news-carousel owl-carousel owl-theme">
+				
+				<!-- News Block -->
+				<div class="news-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="#"><img src="images/blog/161H.jpg" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="post-date">June 10, 2021</div>
+							<h5><a href="#">Top Technology Used to Develop Mobile App.</a></h5>
+							<div class="text">The time for sustainability is now while everyone is looking for companies ...</div>
+							<div class="lower-box">
+								<div class="d-flex justify-content-between align-items-center flex-wrap">
+									<div class="author">
+										<span class="author-image"><img src="images/icons/news-icon.png" alt="" /></span>
+										Rayan Colins
+									</div>
+									<a href="#" class="detail">More Details</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- News Block -->
+				<div class="news-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="#"><img src="images/blog/86H.jpg" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="post-date">June 10, 2021</div>
+							<h5><a href="#">Five Takes on the Sustainability Revolution in business.</a></h5>
+							<div class="text">The time for sustainability is now while everyone is looking for companies ...</div>
+							<div class="lower-box">
+								<div class="d-flex justify-content-between align-items-center flex-wrap">
+									<div class="author">
+										<span class="author-image"><img src="images/icons/news-icon.png" alt="" /></span>
+										Rayan Colins
+									</div>
+									<a href="#" class="detail">More Details</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- News Block -->
+				<div class="news-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="#"><img src="images/blog/83H.jpg" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="post-date">June 10, 2021</div>
+							<h5><a href="#">Top 6 Tech Stacks That Reign Software Development.</a></h5>
+							<div class="text">The time for sustainability is now while everyone is looking for companies ...</div>
+							<div class="lower-box">
+								<div class="d-flex justify-content-between align-items-center flex-wrap">
+									<div class="author">
+										<span class="author-image"><img src="images/icons/news-icon.png" alt="" /></span>
+										Rayan Colins
+									</div>
+									<a href="#" class="detail">More Details</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- News Block -->
+				<div class="news-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="#"><img src="images/blog/199H.jpg" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="post-date">June 10, 2021</div>
+							<h5><a href="#">Top Technology Used to Develop Mobile App.</a></h5>
+							<div class="text">The time for sustainability is now while everyone is looking for companies ...</div>
+							<div class="lower-box">
+								<div class="d-flex justify-content-between align-items-center flex-wrap">
+									<div class="author">
+										<span class="author-image"><img src="images/icons/news-icon.png" alt="" /></span>
+										Rayan Colins
+									</div>
+									<a href="#" class="detail">More Details</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- News Block -->
+				<div class="news-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="#"><img src="images/blog/289H.jpg" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="post-date">June 10, 2021</div>
+							<h5><a href="#">Five Takes on the Sustainability Revolution in business.</a></h5>
+							<div class="text">The time for sustainability is now while everyone is looking for companies ...</div>
+							<div class="lower-box">
+								<div class="d-flex justify-content-between align-items-center flex-wrap">
+									<div class="author">
+										<span class="author-image"><img src="images/icons/news-icon.png" alt="" /></span>
+										Rayan Colins
+									</div>
+									<a href="#" class="detail">More Details</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- News Block -->
+				<div class="news-block">
+					<div class="inner-box">
+						<div class="image">
+							<a href="#"><img src="images/blog/201H.jpg" alt="" /></a>
+						</div>
+						<div class="lower-content">
+							<div class="post-date">June 10, 2021</div>
+							<h5><a href="#">Top 6 Tech Stacks That Reign Software Development.</a></h5>
+							<div class="text">The time for sustainability is now while everyone is looking for companies ...</div>
+							<div class="lower-box">
+								<div class="d-flex justify-content-between align-items-center flex-wrap">
+									<div class="author">
+										<span class="author-image"><img src="images/icons/news-icon.png" alt="" /></span>
+										Rayan Colins
+									</div>
+									<a href="#" class="detail">More Details</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			
+		</div>
+	</section>
+	<!-- End News One -->
